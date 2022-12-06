@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.0060" tests="16" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-11-06T11:58:24" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="Flight booking tests" timestamp="2022-11-06T11:58:24" tests="16" file="/Users/shivam/Documents/CRED/078d6c24-e4ae-436b-b762-1c8c46399d3d/test/test.js" time="0.0060" failures="0">
+    <testcase name="Flight booking tests Add flight successfully" time="0.0010" classname="Add flight successfully">
+    </testcase>
+    <testcase name="Flight booking tests Duplicate and empty flight should not be added" time="0.0000" classname="Duplicate and empty flight should not be added">
+    </testcase>
+    <testcase name="Flight booking tests Add availability successfully" time="0.0000" classname="Add availability successfully">
+    </testcase>
+    <testcase name="Flight booking tests Add availability to non existing flight and class" time="0.0010" classname="Add availability to non existing flight and class">
+    </testcase>
+    <testcase name="Flight booking tests Update non existing availability" time="0.0010" classname="Update non existing availability">
+    </testcase>
+    <testcase name="Flight booking tests Update availability succesfully" time="0.0000" classname="Update availability succesfully">
+    </testcase>
+    <testcase name="Flight booking tests Remove non existing availability" time="0.0000" classname="Remove non existing availability">
+    </testcase>
+    <testcase name="Flight booking tests Remove availability successfully" time="0.0000" classname="Remove availability successfully">
+    </testcase>
+    <testcase name="Flight booking tests Booking non existent seat" time="0.0000" classname="Booking non existent seat">
+    </testcase>
+    <testcase name="Flight booking tests Booking unavailable seat class" time="0.0000" classname="Booking unavailable seat class">
+    </testcase>
+    <testcase name="Flight booking tests Successfully book a seat" time="0.0000" classname="Successfully book a seat">
+    </testcase>
+    <testcase name="Flight booking tests Search non existing flights" time="0.0010" classname="Search non existing flights">
+    </testcase>
+    <testcase name="Flight booking tests Search with only source available" time="0.0000" classname="Search with only source available">
+    </testcase>
+    <testcase name="Flight booking tests Search with only destination available" time="0.0010" classname="Search with only destination available">
+    </testcase>
+    <testcase name="Flight booking tests Search with return of available flight" time="0.0000" classname="Search with return of available flight">
+    </testcase>
+    <testcase name="Flight booking tests Successful search" time="0.0010" classname="Successful search">
+    </testcase>
+  </testsuite>
+</testsuites>
